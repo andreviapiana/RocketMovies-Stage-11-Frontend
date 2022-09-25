@@ -11,3 +11,5 @@ A página em formato desktop é vista na imagem abaixo:
 ![RocketMovies - André Viapiana](https://user-images.githubusercontent.com/106932234/186273254-9768328e-9994-491a-9a05-707e0733edd1.png)
 
 Este Frontend foi hospedado diretamente no Netlify.
+
+[O resultado FINAL pode ser visto aqui](https://rocketmovies-deploy.netlify.app/)
