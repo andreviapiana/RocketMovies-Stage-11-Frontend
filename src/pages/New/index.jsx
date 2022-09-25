@@ -44,10 +44,6 @@ export function New( ...rest ) {
       return alert("Você não informou uma nota para o Filme. Por favor selecione uma nota de 0 a 5.");
     }
 
-    if (!description) {
-      return alert("Você não informou uma descrição para o Filme. Por favor digite uma.");
-    }
-
     if (newMovieTag) {
       return alert("Você deixou uma tag no campo para adicionar, mas não clicou em adicionar. Clique em adicionar ou deixe o campo vazio.");
     }
