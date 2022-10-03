@@ -73,6 +73,7 @@ export function Profile() {
                         <input
                             id="avatar"
                             type="file"
+                            accept="image/*"
                             onChange={handleChangeAvatar}
                         />
 

@@ -47,6 +47,10 @@ export function New( ...rest ) {
     if (!description) {
       return alert("Você não informou uma observação para o Filme. Por favor digite uma.");
     }
+
+    if (!movie_tags) {
+      return alert("Você não informou uma TAG para o Filme. Por favor informe ao menos uma.");
+    }
     
     if (newMovieTag) {
       return alert("Você deixou uma tag no campo para adicionar, mas não clicou em adicionar. Clique em adicionar ou deixe o campo vazio.");
