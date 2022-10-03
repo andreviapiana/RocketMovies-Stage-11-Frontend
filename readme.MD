@@ -2,7 +2,8 @@
   <h1 align="center"><a href="https://rocketmovies-deploy.netlify.app/">RocketMovies (frontend) - Rocketseat Explorer :rocket: </a></h1>
 </p>
 
-Este é o resultado final do desafio RocketMovies, realizado no Stage 11 - Deploy. Nele realizamos o deploy do nosso projeto completo.
+Este é o resultado final do desafio RocketMovies, realizado no Stage 11 - Deploy.
+Nele realizamos o deploy do nosso projeto completo.
 
 ## 💻 Sobre
 O RocketMovies é uma aplicação web para você cadastrar os filmes que assistir. Após se cadastrar na plataforma o usuário estará apto a cadastrar os filmes que desejar. Para cada filme cadastrado será solicitada a inserção de um título, uma nota e uma breve descrição. Como opcional será possível a inserção de tags para melhor identificação do filme. O projeto conta com ainda com a possibilidade de customização do perfil do usuário, como avatar, nome e senha.
