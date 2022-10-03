@@ -1,6 +1,5 @@
 <p align="center">
-  <h1 align="center">[RocketMovies (frontend) - Rocketseat Explorer :rocket:](https://rocketmovies-deploy.netlify.app/)
-</h1>
+  <h1 align="center"><a href="https://rocketmovies-deploy.netlify.app/">RocketMovies (frontend) - Rocketseat Explorer :rocket: </a></h1>
 </p>
 
 Este é o resultado final do desafio RocketMovies, realizado no Stage 11 - Deploy. Nele realizamos o deploy do nosso projeto completo.
