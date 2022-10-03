@@ -48,7 +48,7 @@ export function New( ...rest ) {
       return alert("Você não informou uma observação para o Filme. Por favor digite uma.");
     }
 
-    if (!movie_tags) {
+    if (!movie_tags.length <= 0) {
       return alert("Você não informou uma TAG para o Filme. Por favor informe ao menos uma.");
     }
     
